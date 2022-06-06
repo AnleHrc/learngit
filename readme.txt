@@ -4,6 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 This is mian that text description.
 Creating a new branch is quick and simple.
-Creating a new branch and keep it.
+Creating a new branch and keep.
 Use fast-forward mode to merge branch.
 Test debug branch that stash.
