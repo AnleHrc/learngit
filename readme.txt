@@ -6,3 +6,4 @@ This is mian that text description.
 Creating a new branch is quick and simple.
 Creating a new branch and keep it.
 Use fast-forward mode to merge branch.
+Test debug branch.
